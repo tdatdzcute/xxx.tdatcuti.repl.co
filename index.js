@@ -75,7 +75,7 @@ function DarkMode() {
 /*
 var stop, staticx;
 var img = new Image();
-img.src = "https://i.imgur.com/R9XUjfF.png";
+img.src = "https://i.imgur.com/T8amEQj.jpg";
 
 			function Sakura(x, y, s, r, fn) {
 				this.x = x;
