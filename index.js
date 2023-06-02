@@ -1,6 +1,6 @@
 const audioList = [
-    "//tdatdzcute.github.io/xxx.tdatcuti.repl.co/Audio.mp3",
-    "//tdatdzcute.github.io/xxx.tdatcuti.repl.co/Audio.mp3",
+    "https://tdatdzcute.github.io/xxx.tdatcuti.repl.co/index.js",
+    "https://tdatdzcute.github.io/xxx.tdatcuti.repl.co/index.js",
 ];
 let index = parseInt(localStorage.getItem('currentAudioIndex')) || Math.floor(Math.random() * audioList.length);
 const audio = new Audio(audioList[index]);
